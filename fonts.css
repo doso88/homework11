@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "sans";
+    src: url("fonts/DMSans-Italic-VariableFont_opsz\,wght.ttf");
+}
+@font-face {
+    font-family: "oswald";
+    src: url("fonts/Oswald-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: "ultra";
+    src: url("fonts/Ultraquick\ Italic.ttf");
+}
